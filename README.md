@@ -35,6 +35,6 @@ When the game starts, the user nickname is loaded and displayed on pop-up window
 
 ![h](https://github.com/sun2545/Puzzle_Game/blob/master/h.jpg)
 
-![i](https://github.com/sun2545/Puzzle_Game/blob/master/i.jpg)
+
 
 
