@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.Pane?>
+
+
+<Pane fx:id="pane" prefHeight="592.0" prefWidth="860.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8" fx:controller="slidepuzzle.StartController">
+   <children>
+      <ImageView fx:id="gamestart" fitHeight="52.0" fitWidth="228.0" layoutX="584.0" layoutY="437.0" onMouseClicked="#start" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/gamestart.jpg" />
+         </image>
+      </ImageView>
+      <ImageView fx:id="exit" fitHeight="55.0" fitWidth="96.0" layoutX="716.0" layoutY="487.0" onMouseClicked="#exit" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/exit.jpg" />
+         </image>
+      </ImageView>
+   </children>
+</Pane>
