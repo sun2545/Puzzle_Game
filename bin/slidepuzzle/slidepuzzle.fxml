@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.image.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane fx:id="pane1" maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="700.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="slidepuzzle.MainController">
+   <children>
+      <Pane layoutX="14.0" layoutY="76.0" prefHeight="620.0" prefWidth="820.0">
+         <children>
+            <ImageView fx:id="a1" fitHeight="200.0" fitWidth="200.0" layoutX="10.0" layoutY="10.0" onMouseClicked="#a1move" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/A-1.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="a2" fitHeight="200.0" fitWidth="200.0" layoutX="210.0" layoutY="10.0" onMouseClicked="#a2move" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/A-2.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="a3" fitHeight="200.0" fitWidth="200.0" layoutX="410.0" layoutY="10.0" onMouseClicked="#a3move" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/A-3.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="a4" fitHeight="200.0" fitWidth="200.0" layoutX="10.0" layoutY="210.0" onMouseClicked="#a4move" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/A-4.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="a5" fitHeight="200.0" fitWidth="200.0" layoutX="210.0" layoutY="210.0" onMouseClicked="#a5move" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/A-5.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="a6" fitHeight="200.0" fitWidth="200.0" layoutX="410.0" layoutY="210.0" onMouseClicked="#a6move" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/A-6.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="a7" fitHeight="200.0" fitWidth="200.0" layoutX="10.0" layoutY="410.0" onMouseClicked="#a7move" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/A-7.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="a8" fitHeight="200.0" fitWidth="200.0" layoutX="210.0" layoutY="410.0" onMouseClicked="#a8move" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/A-8.jpg" />
+               </image>
+            </ImageView>
+            <ImageView fx:id="a9" fitHeight="200.0" fitWidth="200.0" layoutX="610.0" layoutY="410.0" onMouseClicked="#a9move" pickOnBounds="true" preserveRatio="true">
+               <image>
+                  <Image url="@../images/A-9.jpg" />
+               </image>
+            </ImageView>
+            <Label fx:id="timer" alignment="CENTER" layoutX="665.0" layoutY="246.0" prefHeight="64.0" prefWidth="194.0" text="0:00:00" textAlignment="CENTER">
+               <font>
+                  <Font size="45.0" />
+               </font>
+            </Label>
+            <Label fx:id="restart" alignment="CENTER" layoutX="657.0" layoutY="310.0" onMouseClicked="#restart" prefHeight="85.0" prefWidth="209.0" text="RESTART">
+               <font>
+                  <Font size="30.0" />
+               </font>
+            </Label>
+            <Label alignment="CENTER" layoutX="672.0" layoutY="210.0" prefHeight="47.0" prefWidth="179.0" text="TIME">
+               <font>
+                  <Font size="34.0" />
+               </font>
+            </Label>
+            <Label layoutX="699.0" layoutY="149.0" text="Complete Picture">
+               <font>
+                  <Font size="15.0" />
+               </font>
+            </Label>
+         </children>
+      </Pane>
+      <ImageView fitHeight="200.0" fitWidth="200.0" layoutX="671.0" layoutY="22.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../images/smallA.jpg" />
+         </image>
+      </ImageView>
+      <Label layoutX="20.0" layoutY="22.0" text="SLIDE PUZZLE">
+         <font>
+            <Font size="40.0" />
+         </font>
+      </Label>
+   </children>
+</Pane>
