@@ -20,7 +20,7 @@ the image
 Image selection
 The players want different images when they play the game. To fulfill user’s expectation, the application make the users choose their images  Please, note that the image files must have “jpg” or “png” extension .
 
-![d](https://github.com/sun2545/Puzzle_Game/blob/master/d.jpg)
+![d](https://user-images.githubusercontent.com/26092150/42860371-18ad76c6-8a24-11e8-994f-263cf9fcf533.jpg)
 
 ![e](https://github.com/sun2545/Puzzle_Game/blob/master/e.jpg)
 
