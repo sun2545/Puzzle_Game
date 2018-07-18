@@ -22,7 +22,7 @@ The players want different images when they play the game. To fulfill user’s e
 
 ![d](https://user-images.githubusercontent.com/26092150/42860371-18ad76c6-8a24-11e8-994f-263cf9fcf533.jpg)
 
-![e](https://github.com/sun2545/Puzzle_Game/blob/master/e.jpg)
+![e](https://user-images.githubusercontent.com/26092150/42860381-292e876a-8a24-11e8-8acc-1ba124227d68.jpg)
 
 ![f](https://github.com/sun2545/Puzzle_Game/blob/master/f.jpg)
 
