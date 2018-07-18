@@ -31,7 +31,7 @@ The one image the users enter will be bread down into 9 pieces of images. Then, 
  File Reading and Writing
 When the game starts, the user nickname is loaded and displayed on pop-up window running in the background. Also, one the game is over, timer displayed will stop. Therefore, the nicknames and timer will be written and scanned and read from the file created to display the user information in the pop-up window including the record of the user ranking when the user clicks on ‘RESULT’.
 
-![g](https://github.com/sun2545/Puzzle_Game/blob/master/g.jpg)
+![g](https://user-images.githubusercontent.com/26092150/42860409-55e0d100-8a24-11e8-8944-329732039fcc.jpg)
 
 ![h](https://github.com/sun2545/Puzzle_Game/blob/master/h.jpg)
 
