@@ -13,7 +13,7 @@ after they finish the game. The second and third are START and EXIT. Open a
 Picture, the final one is to choose another image files the users want to get for
 the image
 
-![b](https://github.com/sun2545/Puzzle_Game/blob/master/b.jpg)
+![b](https://user-images.githubusercontent.com/26092150/42860350-ede3654a-8a23-11e8-8685-fd97598dfd4c.jpg)
 
 ![c](https://github.com/sun2545/Puzzle_Game/blob/master/c.jpg)
 
