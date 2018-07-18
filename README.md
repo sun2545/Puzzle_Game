@@ -24,7 +24,7 @@ The players want different images when they play the game. To fulfill user’s e
 
 ![e](https://user-images.githubusercontent.com/26092150/42860381-292e876a-8a24-11e8-8acc-1ba124227d68.jpg)
 
-![f](https://github.com/sun2545/Puzzle_Game/blob/master/f.jpg)
+![f](https://user-images.githubusercontent.com/26092150/42860396-3efec352-8a24-11e8-853a-227e4f3636e4.jpg)
 
 Game play
 The one image the users enter will be bread down into 9 pieces of images. Then, the images are mix up randomly. And, the users finally start the game to assemble the debris of images together to make out the original one the users loaded at the beginning of the game. Once the user finish building the original picture, the game is over with a timer information the users take.
