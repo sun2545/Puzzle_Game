@@ -4,7 +4,7 @@
 
 
 My project is a simple slide puzzle game. 
-![a](https://github.com/sun2545/Puzzle_Game/blob/master/a.jpg)
+![a](https://user-images.githubusercontent.com/26092150/42860268-d4fa4508-8a23-11e8-8757-c37954570030.jpg)
 
 First Page
 
